@@ -49,7 +49,7 @@ fi
 
 
 
-echo "Transferring files to makii..."
+echo "Transferring files to denish..."
 
 scp dailyfile.txt.enc dailyfile.sig denish@192.168.56.101:~/Desktop/system1/
 
